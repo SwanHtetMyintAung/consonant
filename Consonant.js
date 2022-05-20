@@ -1,14 +1,4 @@
-<!doctype html>
-<html>
-    <head>
-        <title>Jquery Test</title>
-        <meta name="viewport" content="width=device-width" initial-scale=1>
-    </head>
-    <body>
-        
-        
-    </body>
-    <script>
+
             function solve(string){
             let value = 0;
             let realNum;
@@ -37,6 +27,4 @@
         }
         
         console.log(solve("zzzb"))
-        console.log(solve("luffy"))       
-    </script>
-</html>
+        console.log(solve("luffy")) 
